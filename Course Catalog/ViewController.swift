@@ -48,7 +48,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
             return courses.count
         }
     }
-    
+    //table view  check marks
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
         if (mySwitch.isOn)
