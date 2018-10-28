@@ -123,7 +123,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
             }
         }
     }
-    
+    //myswitch
     @IBAction func switchToggle(_ sender: UISwitch) {
         
         if(mySwitch.isOn)

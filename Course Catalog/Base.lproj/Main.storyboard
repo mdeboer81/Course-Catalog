@@ -29,6 +29,7 @@
                                 <rect key="frame" x="0.0" y="56.5" width="375" height="555.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="sectionIndexBackgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" textLabel="tG1-v7-C75" detailTextLabel="o1y-uc-Yhz" rowHeight="59" style="IBUITableViewCellStyleSubtitle" id="8VI-R6-Hhc">
                                         <rect key="frame" x="0.0" y="28" width="375" height="59"/>
